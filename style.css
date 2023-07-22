@@ -33,6 +33,6 @@ body {
     justify-content: space-around;
 }
 
-#bars {
-    transform: rotate(180deg);
+#bars{
+    transform: rotateX(180deg);
 }
